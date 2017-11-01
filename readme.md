@@ -9,3 +9,5 @@ Git is a version control system that prevents us from having the "final doc" pro
 This is a change that I am not aware of, or one that I have forgotten about
 
 Another change to test some sublime features
+
+Another line to see if we've fixed the core.editor setting
